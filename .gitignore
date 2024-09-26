@@ -1,0 +1,43 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.sln.ide
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+*.vs/
+*.vscode/
+
+# Rider files
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.dbmdl
+*.dbproj.schemaview
+
+# Visual Studio Code files
+.vscode/
+
+# Rider
+.idea/
+
+# Windows installer files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# OS generated files
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+*~ 
